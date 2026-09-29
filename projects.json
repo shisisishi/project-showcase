@@ -147,10 +147,10 @@
     "title": "二十四节气 · 人物谱",
     "category": "艺术与视觉",
     "description": "四季神、节气人物与器物构成的统一视觉系列。",
-    "status": "已验证",
-    "note": "36 张作品图，另有总览与 1 分 55 秒视频。",
-    "repo": "",
-    "demo": "",
+    "status": "已发布",
+    "note": "43 张图鉴和网络版成片已发布。约 282MB 的原版视频未上传。",
+    "repo": "https://github.com/shisisishi/solar-terms-gallery",
+    "demo": "https://shisisishi.github.io/solar-terms-gallery/",
     "cover": "assets/solar-terms.jpg"
   },
   {
