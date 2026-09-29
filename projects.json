@@ -92,10 +92,10 @@
     "title": "C 语言学习工作台",
     "category": "软件与交互",
     "description": "课程、练习、参考资料与学习记录。",
-    "status": "待整理",
-    "note": "包含本机课程与软件链接，尚未全面验收。",
-    "repo": "",
-    "demo": "",
+    "status": "已发布",
+    "note": "公开版已去掉本机路径，未附老师课件原文。",
+    "repo": "https://github.com/shisisishi/c-learning-workbench",
+    "demo": "https://shisisishi.github.io/c-learning-workbench/",
     "cover": ""
   },
   {
@@ -258,7 +258,7 @@
     "category": "演示与表达",
     "description": "人物故事、采访问答与公众号视觉编排。",
     "status": "待整理",
-    "note": "网页已验证；公开前处理人物资料与素材范围。",
+    "note": "含人物照片与采访资料，未确认公开授权，因此不上传。",
     "repo": "",
     "demo": "",
     "cover": ""
@@ -280,7 +280,7 @@
     "category": "演示与表达",
     "description": "将演讲内容组织为可浏览的个人故事。",
     "status": "待整理",
-    "note": "包含他人姓名与照片；暂不发布原素材。",
+    "note": "含他人姓名与照片，未确认授权，因此不上传原页面。",
     "repo": "",
     "demo": "",
     "cover": ""
@@ -291,7 +291,7 @@
     "category": "演示与表达",
     "description": "备赛手册、一辩稿与写作课文章。",
     "status": "待整理",
-    "note": "准备精选稿与展示说明。",
+    "note": "个人备赛稿与写作课文章含私人内容，因此不上传。",
     "repo": "",
     "demo": "",
     "cover": ""
@@ -313,7 +313,7 @@
     "category": "软件与交互",
     "description": "证件、荣誉、历史和成果的档案网页模板。",
     "status": "待脱敏",
-    "note": "只发布模板与虚构示例；私人档案不公开。",
+    "note": "含证件等私人档案。未制作虚构示例，因此不上传。",
     "repo": "",
     "demo": "",
     "cover": ""
@@ -324,7 +324,7 @@
     "category": "软件与交互",
     "description": "个人知识条目与网页阅读界面。",
     "status": "待脱敏",
-    "note": "私人笔记需整理为公开示例。",
+    "note": "是私人知识笔记，未整理成可公开示例，因此不上传。",
     "repo": "",
     "demo": "",
     "cover": ""
