@@ -15,10 +15,10 @@
     "title": "约架 · 滑卡界面",
     "category": "软件与交互",
     "description": "格斗运动伙伴匹配的界面原型，支持滑卡与多套视觉风格。",
-    "status": "已验证",
-    "note": "虚构人物演示；没有真实账户后台。",
-    "repo": "",
-    "demo": "",
+    "status": "已发布",
+    "note": "虚构人物的界面原型已发布。没有真实账户后台。",
+    "repo": "https://github.com/shisisishi/fight-match-demo",
+    "demo": "https://shisisishi.github.io/fight-match-demo/",
     "cover": ""
   },
   {
