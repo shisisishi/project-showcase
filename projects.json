@@ -81,10 +81,10 @@
     "title": "交大总控",
     "category": "软件与交互",
     "description": "集中打开个人学习、知识和计划工具。",
-    "status": "待整理",
-    "note": "依赖本机服务；需要示例版。",
-    "repo": "",
-    "demo": "",
+    "status": "已发布",
+    "note": "公开说明版已发布，页面使用示例数据，不连接本机服务。",
+    "repo": "https://github.com/shisisishi/jiaoda-hub",
+    "demo": "https://shisisishi.github.io/jiaoda-hub/",
     "cover": ""
   },
   {
@@ -235,9 +235,9 @@
     "title": "以画为药",
     "category": "科普与内容",
     "description": "艺术解说的选题、脚本、配音与排版生产流程。",
-    "status": "修复中",
-    "note": "19 个版本目录；12 套已有视频与 PPT。",
-    "repo": "",
+    "status": "已发布",
+    "note": "生产流程源码已公开。成片视频和 PPT 没有全部上传。",
+    "repo": "https://github.com/shisisishi/art-med-pipeline",
     "demo": "",
     "cover": ""
   },
