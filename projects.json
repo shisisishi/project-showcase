@@ -180,10 +180,10 @@
     "title": "记忆的永恒 · 三维改编",
     "category": "艺术与视觉",
     "description": "可编辑的软钟、场景材质与灯光模型。",
-    "status": "待验证",
-    "note": "BLEND / GLB 成品存在，尚未重新渲染。",
-    "repo": "",
-    "demo": "",
+    "status": "已发布",
+    "note": "GLB、Blender 工程和已有预览图已发布。本次没有重新渲染。",
+    "repo": "https://github.com/shisisishi/persistence-of-memory",
+    "demo": "https://shisisishi.github.io/persistence-of-memory/",
     "cover": ""
   },
   {
@@ -224,10 +224,10 @@
     "title": "数学 · 看见原理",
     "category": "科普与内容",
     "description": "导数、e、方波、多项式与行列式的五支短片。",
-    "status": "已验证",
-    "note": "五支 1080×1920 成片，媒体信息正常。",
-    "repo": "",
-    "demo": "",
+    "status": "已发布",
+    "note": "五支竖屏成片已发布。媒体信息已核对，尚未逐支完整播放。",
+    "repo": "https://github.com/shisisishi/math-shorts",
+    "demo": "https://shisisishi.github.io/math-shorts/",
     "cover": ""
   },
   {
