@@ -114,9 +114,9 @@
     "title": "桌面成就系统",
     "category": "软件与交互",
     "description": "把完成事项写进日记，连接个人成长与成就树。",
-    "status": "待验证",
-    "note": "有源码和说明，尚未启动验收。",
-    "repo": "",
+    "status": "已发布",
+    "note": "源码已公开。依赖本机 Obsidian 与已登录的 Codex，本次未启动验收。",
+    "repo": "https://github.com/shisisishi/achievement-system",
     "demo": "",
     "cover": ""
   },
