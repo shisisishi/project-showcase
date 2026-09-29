@@ -268,10 +268,10 @@
     "title": "演示文稿精选",
     "category": "演示与表达",
     "description": "旅行、工作与意义、教育科技人才战略等主题。",
-    "status": "待整理",
-    "note": "多个最终稿与修订稿需要统一。",
-    "repo": "",
-    "demo": "",
+    "status": "已发布",
+    "note": "已发布党课终稿和旅行风格终稿。诊断稿与预览图没有上传。",
+    "repo": "https://github.com/shisisishi/ppt-collection",
+    "demo": "https://shisisishi.github.io/ppt-collection/",
     "cover": ""
   },
   {
@@ -301,10 +301,10 @@
     "title": "商品视觉与内容",
     "category": "演示与表达",
     "description": "封面、商品主图和内容生产模板。",
-    "status": "待整理",
-    "note": "已有图文素材，需选最终版。",
-    "repo": "",
-    "demo": "",
+    "status": "已发布",
+    "note": "16 张终稿图已发布。运营文档、手机截图和二维码没有上传。",
+    "repo": "https://github.com/shisisishi/commerce-design",
+    "demo": "https://shisisishi.github.io/commerce-design/",
     "cover": ""
   },
   {
