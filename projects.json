@@ -125,9 +125,9 @@
     "title": "余额浮窗",
     "category": "软件与交互",
     "description": "轻量桌面余额展示与消费趋势。",
-    "status": "待整理",
-    "note": "需要 API 授权；发布代码前清理本机配置。",
-    "repo": "",
+    "status": "已发布",
+    "note": "源码已公开。API Key 由使用者本机填写，仓库里没有密钥。",
+    "repo": "https://github.com/shisisishi/deepseek-balance-widget",
     "demo": "",
     "cover": ""
   },
@@ -136,9 +136,9 @@
     "title": "群聊整理原型",
     "category": "软件与交互",
     "description": "OCR 转写、去重与群聊摘要处理。",
-    "status": "待整理",
-    "note": "只整理原型；真实聊天数据不公开。",
-    "repo": "",
+    "status": "已发布",
+    "note": "源码已公开，只含虚构示例。不是完整微信机器人，没有自动回复。",
+    "repo": "https://github.com/shisisishi/wechat-organizer",
     "demo": "",
     "cover": ""
   },
@@ -334,9 +334,9 @@
     "title": "ESP32 舵机控制",
     "category": "软件与交互",
     "description": "鼠标摇杆、运动速度与串口设备控制。",
-    "status": "待验证",
-    "note": "代码目录存在，本次不连接或驱动硬件。",
-    "repo": "",
+    "status": "已发布",
+    "note": "源码已公开。本次没有连接设备，也没有烧录。",
+    "repo": "https://github.com/shisisishi/esp32-mg90s",
     "demo": "",
     "cover": ""
   }
