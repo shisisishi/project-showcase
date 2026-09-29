@@ -37,10 +37,10 @@
     "title": "用 C 实现微分",
     "category": "软件与交互",
     "description": "从割线到切线：数值微分、误差和收敛阶的交互探索。",
-    "status": "已验证",
-    "note": "预设数据交互通过；任意公式计算需要本地 C 服务。",
-    "repo": "",
-    "demo": "",
+    "status": "已发布",
+    "note": "在线页可浏览五个预设函数。任意公式计算需要本机 C 服务。",
+    "repo": "https://github.com/shisisishi/derivative-viz",
+    "demo": "https://shisisishi.github.io/derivative-viz/",
     "cover": ""
   },
   {
