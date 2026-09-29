@@ -202,10 +202,10 @@
     "title": "浪漫主义图画廊",
     "category": "艺术与视觉",
     "description": "人物、悬崖、城墙和月夜场景的生成视觉实验。",
-    "status": "待整理",
-    "note": "候选图与高分辨率作品存在。",
-    "repo": "",
-    "demo": "",
+    "status": "已发布",
+    "note": "13 张生成图已发布。真实样张和重复草稿没有放进仓库。",
+    "repo": "https://github.com/shisisishi/romantic-gallery",
+    "demo": "https://shisisishi.github.io/romantic-gallery/",
     "cover": ""
   },
   {
