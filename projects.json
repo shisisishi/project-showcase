@@ -4,10 +4,10 @@
     "title": "Pip 的像素远征",
     "category": "软件与交互",
     "description": "原创横版跳跃游戏。金币、敌人、关卡和触屏控制。",
-    "status": "已验证",
-    "note": "构建通过，实测进入关卡。",
-    "repo": "",
-    "demo": "",
+    "status": "已发布",
+    "note": "构建成功并已发布在线试玩。尚未验证完整通关。",
+    "repo": "https://github.com/shisisishi/pip-pixel-quest",
+    "demo": "https://shisisishi.github.io/pip-pixel-quest/",
     "cover": ""
   },
   {
@@ -158,10 +158,10 @@
     "title": "蛋挞 · 3D 烘焙工坊",
     "category": "艺术与视觉",
     "description": "可旋转观察的葡式蛋挞模型与交互预览。",
-    "status": "已验证",
-    "note": "模型显示与旋转控制已验证。",
-    "repo": "",
-    "demo": "",
+    "status": "已发布",
+    "note": "已改为单独加载模型的轻量页面。原预览曾验证旋转；新页面尚未在浏览器复看。",
+    "repo": "https://github.com/shisisishi/egg-tart-viewer",
+    "demo": "https://shisisishi.github.io/egg-tart-viewer/",
     "cover": ""
   },
   {
